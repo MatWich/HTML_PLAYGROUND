@@ -80,7 +80,7 @@ footer {
 
 /* SLIDESHOW CONTENT */
 .slidershow{
-    width: 70%;
+    width: 90%;
     height: 40%;
     overflow: hidden;
   }
@@ -94,16 +94,16 @@ footer {
   }
   .navigation{
     position: absolute;
-    bottom: 20px;
+    bottom: 2em;
     left: 50%;
     transform: translateX(-50%);
     display: flex;
   }
   .bar{
     width: 50px;
-    height: 10px;
+    height: .75rem;
     border: 2px solid #fff;
-    margin: 6px;
+    margin: .5em;
     cursor: pointer;
     transition: 0.4s;
   }
